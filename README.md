@@ -46,7 +46,7 @@ Hi there! I’m a Software Frontend Engineer. I develop awesome, aesthetic, perf
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joblyn&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Joblyn&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joblyn&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joblyn&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -54,11 +54,11 @@ Hi there! I’m a Software Frontend Engineer. I develop awesome, aesthetic, perf
 ![](https://github-profile-trophy.vercel.app/?username=Joblyn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## Badges
-###### Holopin Badge
 [![@joblyn's Holopin board](https://holopin.io/api/user/board?user=joblyn)](https://holopin.io/@joblyn)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--7LzjnbaB--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/9/2year-Badge-shadow__1_.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Joblyn) 
@@ -70,6 +70,9 @@ Hi there! I’m a Software Frontend Engineer. I develop awesome, aesthetic, perf
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Joblyn)
 [![Dev](https://img.shields.io/badge/DEV-%23000000.svg?logo=dev&logoColor=white)](https://dev.to/joblyn)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joblyn&icon=0&color=3)](https://visitcount.itsvg.in)
