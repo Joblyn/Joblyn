@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m a Software Frontend Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.  
+Hi there! I’m a Software Frontend Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.  
 
 # 💻 Techonlogies I work with:
 ### Frontend 
